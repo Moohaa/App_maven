@@ -2,7 +2,7 @@ pipeline {
      environment {
           registry = "moha2/app"
           registryCredential = 'docker_hub'
-          dockerIdockerImage = ''
+          dockerImage = ''
      }
      agent any
      stages {
