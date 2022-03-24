@@ -8,8 +8,10 @@
   <artifactId>app-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
   
+  <!--
+    <packaging>war</packaging>
+  -->
   
-  <packaging>war</packaging>
 
   <name>app-maven</name>
   <!-- FIXME change it to the project's website -->
